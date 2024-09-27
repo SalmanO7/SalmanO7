@@ -28,7 +28,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SalmanO7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalmanO7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
-<img alt="Coder GIF" margin=200px height=500 width=75% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<img alt="Coder GIF" margin=200px height=300 width=75% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SalmanO7&limit=5&theme=dark&combine_all_yearly_contributions=true)
