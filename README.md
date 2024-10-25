@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🚀, I am Muhammad Salman ✌</h1>
+<h1 align="center">Hi 🚀,</h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E2F7F1&center=true&vCenter=true&width=440&lines=Muhammad+Salman+%E2%9C%8C" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 
