@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E2F7F1&width=full&lines=Hi+%F0%9F%9A%80%2C+I+am+Muhammad+Salman+%E2%9C%8C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=E2F7F1&width=1000&lines=Hi+%F0%9F%9A%80%2C+I+am+Muhammad+Salman+%E2%9C%8C" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
