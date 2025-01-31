@@ -19,7 +19,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/salmano4/?_rdc=1&_rdr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/salmanop402/?igsh=mw03mnkwd3zrannhza%3d%3d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-salman-cr7/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@m.salman07) 
 
 [![](https://visitcount.itsvg.in/api?id=SalmanO7&icon=5&color=11)](https://visitcount.itsvg.in)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalmanO7&label=Profile%20views&color=0e75b6&style=flat" alt="Muhammad Salman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SalmanO7=color=0e75b6&style=flat" alt="Muhammad Salman" /> </p>
 
 
 # 💻 Tech Stack:
