@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on NEXT.Js, REACT.Js Technology
+🔭 I’m currently working on NextJS, ReactJS Technology
 <br>
 👯 I’m looking to collaborate on Innovative web applications using modern frameworks and cloud-based solutions
 <br>
