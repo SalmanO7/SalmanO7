@@ -1,6 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I+am+Muhammad+Salman+%E2%9C%8C" alt="Typing SVG" /></a>
 
-
 # 💫 About Me:
 🔭 I’m currently working on NextJS, ReactJS Technology
 <br>
