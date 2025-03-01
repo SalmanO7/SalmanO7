@@ -2,11 +2,6 @@
 
 
 
-
-
-
-
-
 # 💫 About Me:
 🔭 I’m currently working on NextJS, ReactJS Technology
 <br>
